@@ -1,1 +1,53 @@
-{}
+{
+  "passengers": [
+    {
+      "id": 1,
+      "fullname": "Tommy Pickles",
+      "checkedIn": true,
+      "checkInDate": 1518561357,
+      "baggage": ""
+    },
+    {
+      "id": 2,
+      "fullname": "Stuart Pickles",
+      "checkedIn": true,
+      "checkInDate": 1518561357,
+      "baggage": ""
+    },
+    {
+      "id": 3,
+      "fullname": "Chuckie Finster",
+      "checkedIn": false,
+      "checkInDate": null,
+      "baggage": ""
+    },
+    {
+      "id": 4,
+      "fullname": "Angelica Pickles",
+      "checkedIn": false,
+      "checkInDate": null,
+      "baggage": ""
+    },
+    {
+      "id": 5,
+      "fullname": "Susie Carmichael",
+      "checkedIn": true,
+      "checkInDate": 1518561357,      
+      "baggage": ""
+    },
+    {
+      "id": 6,
+      "fullname": "Lil DeVille",
+      "checkedIn": true,
+      "checkInDate": 1518561357,
+      "baggage": ""
+    },
+    {
+      "id": 7,
+      "fullname": "Phil DeVille",
+      "checkedIn": true,
+      "checkInDate": 1518561357,
+      "baggage": ""
+    }
+  ]
+}
