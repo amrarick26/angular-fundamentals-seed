@@ -22,17 +22,16 @@
       "baggage": ""
     },
     {
-      "id": 4,
       "fullname": "Angelica Pickles",
+      "id": 4,
       "checkedIn": false,
-      "checkInDate": null,
-      "baggage": ""
+      "baggage": "hand-only"
     },
     {
       "id": 5,
       "fullname": "Susie Carmichael",
       "checkedIn": true,
-      "checkInDate": 1518561357,      
+      "checkInDate": 1518561357,
       "baggage": ""
     },
     {
