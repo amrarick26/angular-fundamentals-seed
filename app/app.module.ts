@@ -13,7 +13,7 @@ import { PassengerDashboardModule } from './passenger-dashboard/passenger-dashbo
 
 const routes: Routes = [
   { path: '',
-    component: HomeComponent,
+    redirectTo: '/passengers',
     pathMatch: 'full'
   }, {
     path: '**',
@@ -38,4 +38,4 @@ const routes: Routes = [
     AppComponent
   ]  
 })
-export class  AppModule {}
+export class AppModule {}
